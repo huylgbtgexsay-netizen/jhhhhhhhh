@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "identifier": "pddatios.com",
+  "identifier": "hbaoxqbaotweak.com",
   "name": "MENU H4CK FREE FIRE",
-  "description": "Zalo 0363279629 Tele @pddatios",
+  "description": "DEV qbaotweak ADMIN hbaodztweak",
   "accentColor": "#008080",
-  "icon": "assets/pddatios.JPEG",
+  "icon": "assets/hbaodz.JPEG",
   "packages": [
     {
       "identifier": "aimbot",
       "name": "FFM MENU ESP V2",
       "author": "pddatios",
       "version": "1.0.0",
-      "summary": "PDINHDAT • H4CK IOS",
-      "description": "Zalo 0363279629 Tele @pddatios",
+      "summary": "hbaoxqbaotweak • H4CK IOS",
+      "description": "DEV qbaotweak ADMIN hbaodztweak",
       "category": "Game",
       "tags": [
         "Game",
@@ -57,19 +57,19 @@
         "assets/IMG_8245.jpeg",
         "assets/icon.png"
       ],
-      "password": "pddatios"
+      "password": "hbaoxqbaotweak"
     },
     {
       "identifier": "aimbot2",
       "name": "FFTH MENU ESP V2",
-      "author": "pddatios",
+      "author": "hbaoxqbaotweak",
       "version": "1.0.0",
-      "summary": "PDINHDAT • H4CK IOS",
-      "description": "Zalo 0363279629 Tele @pddatios",
-      "category": "pddatios",
+      "summary": "hbaoxqbaotweak • H4CK IOS",
+      "description": "DEV qbaotweak Zalo 2 0964610122",
+      "category": "hbaoxqbaotweak",
       "tags": [
         "Game",
-        "@pdinhdat"
+        "@hanbaomeo"
       ],
       "publishedAt": "2026-09-15T08:00:00Z",
       "download": "packages/ffthesp.3105",
@@ -110,7 +110,7 @@
         "assets/IMG_8245.jpeg",
         "assets/icon.png"
       ],
-      "password": "pddatios"
+      "password": "hbaoxqbaotweak"
     }
   ]
 }
